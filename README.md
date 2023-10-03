@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Justice00000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Justice000001&theme=dark)](https://git.io/streak-stats)
 
 - 👋 Hi, I’m Chukwuonye Justice
 - 👀 I’m interested in Cyber Security
