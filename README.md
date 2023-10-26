@@ -72,9 +72,9 @@ Hello! My name is Justice Chukwuonye. I am a skilled software engineer with a ke
 
  [![Justice's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Justice00000&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Ronnie5562/github-readme-activity-graph)
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />    
- [![wakatime](https://wakatime.com/badge/user/79a153c8-56b1-4f51-a67e-2bb3e7c2319e.svg)](https://wakatime.com/@79a153c8-56b1-4f51-a67e-2bb3e7c2319e)
+ [![wakatime](https://wakatime.com/badge/user/018b6ac1-91de-41f9-93e0-1b19c47e9f4d.svg)](https://wakatime.com/@018b6ac1-91de-41f9-93e0-1b19c47e9f4d)
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vdw2qotvipod6jut6nkhrvuuty&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=2437c6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## A Snake is eating up my contribution graph 😱😱😨
-![](https://github.com/Justice00000/Ronnie5562/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Justice00000/Justice00000/blob/output/github-contribution-grid-snake.svg)
