@@ -65,7 +65,7 @@ Hello! My name is Justice Chukwuonye. I am a skilled software engineer with a ke
 
 <b>Top Repositories</b>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Justice00000&repo=alu-higher_level_programming&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Justice00000&repo=alu-higher_level_programming&theme=github_dark)](https://github.com/Jstice00000/github-readme-stats)
 
 
 ### ✍️Random Dev Quote
