@@ -75,8 +75,7 @@ Hello! My name is Justice Chukwuonye. I am a skilled software engineer with a ke
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />    
  [![wakatime](https://wakatime.com/badge/user/018b6ac1-91de-41f9-93e0-1b19c47e9f4d.svg)](https://wakatime.com/@018b6ac1-91de-41f9-93e0-1b19c47e9f4d)
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?
-uid=31p5lmefcmnwzb62he4ywlmfx25i&redirect=true&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=2437c6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31p5lmefcmnwzb62he4ywlmfx25i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## A Snake is eating up my contribution graph 😱😱😨
 ![](https://github.com/Justice00000/blob/output/github-contribution-grid-snake.svg)
