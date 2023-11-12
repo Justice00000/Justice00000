@@ -1,4 +1,7 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Justice00000&theme=dark)](https://git.io/streak-stats)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Justice00000&label=Profile%20views&color=0e75b6&style=flat" alt="Profiles" /> </p>
+
+<p align="left"> <a href="https://twitter.com/@CJustice001" target="blank"><img src="https://img.shields.io/twitter/follow/CJustice001?logo=twitter&style=for-the-badge" alt="@CJustice001" /></a> </p>
 
 **<big>Hi</big> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <big>My name is Justice Chukwuonye</big>**
 
@@ -63,9 +66,12 @@ Hello! My name is Justice Chukwuonye. I am a skilled software engineer with a ke
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Justice00000&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<b>Top Repositories</b>
+<b>Top Repositories and Languages</b>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Justice00000&repo=alu-higher_level_programming&theme=github_dark)](https://github.com/Justice00000/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Justice00000&show_icons=true&locale=en&layout=compact" alt="devotuoma" /></p>
+
 
 
 ### ✍️Random Dev Quote
