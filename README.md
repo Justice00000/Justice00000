@@ -21,7 +21,7 @@ Hello! My name is Justice Chukwuonye. I am a skilled software engineer with a ke
 *   ⚡  I'm Tony Stark... but don't tell anyone🤫🤫
 *   👥 I need that job
 
-*   <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+  <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
 ### Skills 
 <p align="left">
