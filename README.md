@@ -75,6 +75,7 @@ Hello! My name is Justice Chukwuonye. I am a skilled software engineer with a ke
 
 
 ### ✍️Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
  [![Justice's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Justice00000&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Justice00000/github-readme-activity-graph)
