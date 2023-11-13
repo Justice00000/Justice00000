@@ -21,6 +21,9 @@ Hello! My name is Justice Chukwuonye. I am a skilled software engineer with a ke
 *   ⚡  I'm Tony Stark... but don't tell anyone🤫🤫
 *   👥 I need that job
 
+   ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jchukwuonye)
+
   <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
 ### Skills 
@@ -72,11 +75,17 @@ Hello! My name is Justice Chukwuonye. I am a skilled software engineer with a ke
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Justice00000&show_icons=true&locale=en&layout=compact" alt="devotuoma" /></p>
 
+![](https://github-contributor-stats.vercel.app/api?username=Justice00000&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Justice00000&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
  [![Justice's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Justice00000&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Justice00000/github-readme-activity-graph)
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />    
