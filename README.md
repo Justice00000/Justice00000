@@ -12,7 +12,7 @@
 
 Hello! My name is Justice Chukwuonye. I am a skilled software engineer with a keen interest in Cybersecurity. I aspire to be a cybersecurity expert who relentlessly safeguards critical information, systems, and networks from evolving cyber threats. My vision is to empower individuals, organizations, and society with the confidence to navigate the digital world securely. I am committed to continuous learning, innovation, and ethical practice, aiming to be at the forefront of cybersecurity, pioneering new defences, and strengthening the resilience of our interconnected world. My ultimate goal is to create a safer and more secure digital future for all, where privacy, trust, and data integrity are upheld.
 
-*   🌍  I'm based in Kampala, Uganda
+*   🌍  I'm based in Lagos, Nigeria
 *   🖥️  See my portfolio at https://drive.google.com/file/d/1bDN9TewPDALdt37pDQPSN2p8H93mjabK/view?usp=sharing
 *   ✉️  You can contact me at j.chukwuony@alustudent.com
 *   🚀  I'm currently working on integrating technology deep into the health sector
