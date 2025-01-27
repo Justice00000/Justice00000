@@ -93,7 +93,12 @@ Hello! My name is Justice Chukwuonye. I am a skilled software engineer with a ke
 
  ![Most Active Days](https://https://wakatime.com/insights/animated/weekdays.gif)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31p5lmefcmnwzb62he4ywlmfx25i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+## 🎵 My Spotify Playlist
 
-## A Snake is eating up my contribution graph 😱😱😨
+Looking for some good music? Check out my Spotify profile for playlists and tracks that inspire me:
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31yi2w5truldyib736mmwjby3kbm?si=20dd667f8b384a0b)
+
+## 🐍 A Snake is eating up my contribution graph 😱😱😨
+
 ![](https://github.com/Justice00000/blob/output/github-contribution-grid-snake.svg)
