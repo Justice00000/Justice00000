@@ -14,10 +14,10 @@ Hello! My name is Justice Chukwuonye. I am a skilled software engineer with a ke
 
 *   🌍  I'm based in Lagos, Nigeria
 *   🖥️  See my portfolio at https://drive.google.com/file/d/1bDN9TewPDALdt37pDQPSN2p8H93mjabK/view?usp=sharing
-*   ✉️  You can contact me at j.chukwuony@alustudent.com
+*   ✉️  You can contact me at Justiceofficial@gmail.com
 *   🚀  I'm currently working on integrating technology deep into the health sector
 *   🧠  I'm currently learning ML, Java EE and AR/VR
-*   🤝  I'm open to collaborating on Projects with Reactjs, Reactnative Django, Java, A.I, and Machine-Learning
+*   🤝  I'm open to collaborating on Projects with Reactjs, Angularjs, Reactnative Django, Java, AI and Machine-Learning
 *   ⚡  I'm Tony Stark... but don't tell anyone🤫🤫
 *   👥 I need that job
 
